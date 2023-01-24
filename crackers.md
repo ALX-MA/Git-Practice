@@ -9,6 +9,7 @@
 - Abdellah-Staitay
 - benreddad
 - ouafcode
+- ismail wafid
 - Hayoun01
 <!--- DON'T TOUCH THIS PLZ -->
 #
