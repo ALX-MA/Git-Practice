@@ -10,6 +10,7 @@
 - nlahkimdev
 - Abdellah-Staitay
 - benreddad
+- yassine01
 - ouafcode
 - ismail wafid
 - Hayoun01
