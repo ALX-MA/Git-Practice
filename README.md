@@ -6,7 +6,7 @@
 
 ### `Q`: Why i made this repo ?
 ### `A`: new things are sticking in your mind by practicing em'
-### `A`: you also going to get the experience needed to work as a team member (zyr m3ana hh)
+### `A`: you also going to get the experience needed to work as a team member
 
 ## Overview
 
