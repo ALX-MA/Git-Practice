@@ -19,6 +19,6 @@
 - ezzaky
 - hiba
 - Hanae
--Chaimae jeb
+- Chaimae jeb
 
 <!--- DON'T TOUCH THIS PLZ -->
