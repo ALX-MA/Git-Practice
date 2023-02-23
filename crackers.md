@@ -22,6 +22,7 @@
 - Hanae
 - Chaimae jeb
 - Red10ne
+- Khalid L Ostora
 - itsmeYO92
 
 <!--- DON'T TOUCH THIS PLZ -->
