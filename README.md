@@ -33,3 +33,9 @@
 ** NOTE : MATSWLCH 3LA CHI HAJA F GROUP ILA MAQLBTICH MZ1. MADRTCH ANY HELP HNAYA F GUID BACH TMCHI T9LB L RASSK . SO BE A WARRIOR MY BRO/SIS !
 
 ![](https://media3.giphy.com/media/3oeSAz6FqXCKuNFX6o/giphy.gif?cid=ecf05e47dx9h3566dt8mnlxtrscloalepxai4b4cxx65znb3&rid=giphy.gif&ct=g)
+
+## Author
+
+- Github : [u53f](https://github.com/n53337)
+
+- Twitter : [u53f](https://twitter.com/n_53337)
